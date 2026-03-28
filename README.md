@@ -6,7 +6,7 @@
   <!-- EMPLACEMENT POUR LE SCHÉMA D'ARCHITECTURE -->
   <img src="./static/images/schema-architecture-placeholder.png" alt="Schéma d'Architecture du Projet" width="80%">
   <br>
-  <em>(Insérez ici l'image de votre schéma d'architecture)</em>
+  
 </p>
 
 ---
